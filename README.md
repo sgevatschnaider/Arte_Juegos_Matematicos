@@ -1,6 +1,13 @@
 # Arte_Juegos_Matematicos
 
-![2025 Representación](2025_anim.gif)
+## Representación Visual del Número 2025
+
+Aquí tienes una representación visual del número 2025, destacando su estructura geométrica y matemáticas asociadas:
+
+<div align="center">
+  <img src="2025_anim.gif" alt="2025 Representación" width="400px">
+</div>
+
 
 ```markdown
 # 📚 Matemática Recreativa
