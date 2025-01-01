@@ -2,6 +2,11 @@
 
 ## Representación Visual del Número 2025
 
+<div align="center">
+  <img src="2025_anim.gif" alt="2025 Representación" width="400px">
+</div>
+
+
 El año 2025 puede representarse geométricamente mediante números triangulares y octógonos centrados. Un número triangular puede visualizarse como un triángulo equilátero formado por puntos, mientras que los números octogonales centrados se organizan en anillos concéntricos alrededor de un punto central. En esta disposición, cada “capa” contiene 8, 16, 24, … puntos, evocando la estructura de un octágono radial.
 La animación ilustra visualmente esta dualidad en el número 2025, combinando números triangulares y octogonales. Al inicio, no hay puntos en la figura; poco a poco comienzan a aparecer: primero, los 990 puntos del primer número triangular en azul, seguidos por los 1035 puntos del segundo número triangular  en verde.
 Transición: Una vez que los 2025 puntos se han mostrado formando dos “triángulos”, la animación los reorganiza gradualmente (cambiando su color a morado) hasta formar un octógono centrado.
