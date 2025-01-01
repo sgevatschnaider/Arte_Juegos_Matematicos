@@ -2,7 +2,16 @@
 
 ## Representación Visual del Número 2025
 
-Aquí tienes una representación visual del número 2025, destacando su estructura geométrica y matemáticas asociadas:
+El año 2025 puede representarse geométricamente mediante números triangulares y octógonos centrados. Un número triangular puede visualizarse como un triángulo equilátero formado por puntos, mientras que los números octogonales centrados se organizan en anillos concéntricos alrededor de un punto central. En esta disposición, cada “capa” contiene 8, 16, 24, … puntos, evocando la estructura de un octágono radial.
+La animación ilustra visualmente esta dualidad en el número 2025, combinando números triangulares y octogonales. Al inicio, no hay puntos en la figura; poco a poco comienzan a aparecer: primero, los 990 puntos del primer número triangular en azul, seguidos por los 1035 puntos del segundo número triangular  en verde.
+Transición: Una vez que los 2025 puntos se han mostrado formando dos “triángulos”, la animación los reorganiza gradualmente (cambiando su color a morado) hasta formar un octógono centrado.
+Imagen final: El fotograma final presenta un círculo denso de puntos, que en realidad está compuesto por 22 anillos concéntricos) más 1 punto central, sumando un total de 2025. Aunque visualmente parece un círculo, conceptualmente está basado en la idea de un octógono centrado.
+
+The year 2025 can be geometrically represented using triangular numbers and centered octagonal numbers. A triangular number can be visualized as an equilateral triangle formed by dots, while centered octagonal numbers are arranged in concentric rings around a central point. In this arrangement, each “layer” contains 8, 16, 24, ... dots, evoking the structure of a radial octagon.
+The animation visually illustrates this duality in the number 2025, combining triangular and octagonal numbers. At first, there are no dots in the figure; they gradually appear: first, 990 dots of the first triangular number in blue, followed by 1,035 dots of the second triangular number in green.
+Transition: Once the 2,025 dots are displayed forming two “triangles,” the animation gradually reorganizes them (changing their color to purple) into a centered octagon.
+Final Image: The final frame shows a dense circle of dots, which is actually composed of 22 concentric rings plus 1 central dot, totaling 2,025. Although it visually resembles a circle, conceptually it is based on the idea of a centered octagon.
+
 
 <div align="center">
   <img src="2025_anim.gif" alt="2025 Representación" width="400px">
