@@ -1,5 +1,6 @@
 # Arte_Juegos_Matematicos
 
+![2025 Representación](2025_anim.gif)
 
 ```markdown
 # 📚 Matemática Recreativa
